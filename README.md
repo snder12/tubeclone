@@ -2,6 +2,10 @@
 
 SandiTube is a portfolio project that replicates the front end of YouTube. It is built using Vite, React, Tailwind CSS, and TypeScript.
 
+## Acknowledgements
+
+Special thanks to [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) for creating the tutorial that inspired this project.
+
 ## Getting Started
 
 To get a local copy of the project up and running, follow these steps:
