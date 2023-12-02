@@ -22,7 +22,7 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    npm install
    ```
-4. **Run this project**
+4. **Run this project:**
    ```bash
    npm run dev
    ```
